@@ -14,4 +14,5 @@ pipeline{
                 sh "cp -R C:/Users/VAIBHAV/AppData/Local/Jenkins/.jenkins/workspace/weatherapp /nginx/html/node-app"
             }
         }
+    }
 }
